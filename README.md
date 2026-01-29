@@ -62,7 +62,7 @@ Onde o tipo de ataque varia conforme a classe do herói:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Jayzmatos22/JavaScript_POO)
+   git clone [https://github.com/Jayzmatos22/JavaScript_POO](https://github.com/Jayzmatos22/JavaScript_POO)
 Acesse a pasta do projeto:
 
 bash
